@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-vue-charts": "^20.4.49",
+    "chart.js": "^2.9.4",
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
   },
